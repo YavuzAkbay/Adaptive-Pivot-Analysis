@@ -1,4 +1,4 @@
-# 🧠 ML-Enhanced Adaptive Trading System
+# 🧠 ML-Enhanced Adaptive Pivot Analysis
 
 A machine learning-powered trading system that combines traditional technical analysis with deep learning to generate adaptive trading signals. The system uses LSTM neural networks with attention mechanisms to analyze market patterns and automatically adjusts its parameters based on market volatility.
 
@@ -174,6 +174,10 @@ Memory Management:
 1. System handles large datasets efficiently.
 2. Automatic data cleaning and preprocessing.
 3. Optimized feature scaling and normalization.
+
+## 📝 License
+
+This project is licensed under the GPL v3 - see the [(https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) file for details.
 
 ## 📧 Contact
 
